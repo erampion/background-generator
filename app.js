@@ -14,7 +14,8 @@ buttonOne.addEventListener('click', firstRandom);
 buttonTwo.addEventListener('click', secondRandom);
 
 
-// Call function to set the initial colors for the background
+// Call setGradient function to set the initial colors for the background
+// Colors set in the index.html file (firstcolor: #4262c2, secondcolor: #4da163)
 setGradient();
 
 // Change the background colors
